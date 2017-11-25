@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="start">help</string>
+    <string name="over">exit</string>
+    <string name="previous_button">1</string>
+    <string name="next_button">2</string>
+    <string name="exit_button">3</string>
+    <string name="show_message">asasa</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
